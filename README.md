@@ -10,3 +10,11 @@ No matter what the cat will be running from the dog, and the game will end if ca
 A better outcome would be that the cat must also get home before it begins to rain. 
 The best outcome would be all of the above as well as the ability for the cat to pick up tokens and power ups.
 I will need to research game design. I will also need to research how to add power ups and tokens. I will research games like subway surfer and temple run for inspiration. 
+
+STATUS REPORT
+section leader: Rowan Rexrode
+Project Title: Fluffy Flee
+For my project so far I have done research into games with a similar game play as I am trying to exemplify in my game. I have downloaded files to use for the game.
+I have only just begun coding and need to do more work coding.
+
+So far no problems, but I have not coded enough to have a good gauge on this.
