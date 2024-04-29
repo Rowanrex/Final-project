@@ -22,7 +22,8 @@ I have only just begun coding and need to do more work coding.
 
 So far no problems, but I have not coded enough to have a good gauge on this.
 
-
+Link to video and final code. In Github it was condensing my code to be unreadable and I could not resolve the issue. This is the best solution I could manage.
+https://docs.google.com/document/d/113eZvnLmccCwVouZo76ACQrVEaiQgCdTZzKFAa0yQQI/edit?usp=sharing
 
 
 
